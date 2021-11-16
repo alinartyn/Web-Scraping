@@ -1,0 +1,18 @@
+,index,Activity,Period,Class,Section,Status,Enrols/Capacity,Day/Start Time,Course,teacher
+1,2,Course Enrolment,T3,1978,CR01,Open,0/26,,fins3666,Dr NY Oh
+2,3,Lecture,T3,9486,A,Open,51/75*,"Tue 09:00 - 12:00 (Weeks:1-5,7-10)",fins3666,Dr NY Oh
+3,4,Lecture,T3,9487,B,Open,73/75*,"Thu 12:00 - 15:00 (Weeks:1-5,7-10)",fins3666,Dr NY Oh
+5,2,Course Enrolment,T3,2459,CR01,Open,1/2,,infs1609,Mr B  Wang
+6,3,Laboratory,T3,7495,H11A,Full,23/23*,"Thu 11:00 - 13:00 (Weeks:1-5,7-10)",infs1609,Mr B  Wang
+7,4,Laboratory,T3,7496,H13A,Full,24/24*,"Thu 13:00 - 15:00 (Weeks:1-5,7-10)",infs1609,Mr B  Wang
+8,5,Laboratory,T3,7498,H18A,Full,23/23*,"Thu 18:00 - 20:00 (Weeks:1-5,7-10)",infs1609,Mr B  Wang
+9,6,Laboratory,T3,7499,M18A,Full,23/23*,"Mon 18:00 - 20:00 (Weeks:1-3,5,7-10)",infs1609,Mr B  Wang
+10,7,Laboratory,T3,7500,T13A,Full,21/21*,"Tue 13:00 - 15:00 (Weeks:1-5,7-10)",infs1609,Mr B  Wang
+11,8,Laboratory,T3,7501,T16A,Full,25/25*,"Tue 16:00 - 18:00 (Weeks:1-5,7-10)",infs1609,Mr B  Wang
+12,9,Laboratory,T3,7502,T18A,Full,24/24*,"Tue 18:00 - 20:00 (Weeks:1-5,7-10)",infs1609,Mr B  Wang
+13,10,Lecture,T3,7493,A,Open,163/173*,"Mon 16:00 - 18:00 (Weeks:1-3,5,7-10)",infs1609,Mr B  Wang
+15,2,Course Enrolment,T3,2813,CR01,Open,0/1,,infs1603,Dr VY Pang
+16,3,Laboratory,T3,4892,T18A,Full,26/26,"Tue 18:00 - 20:00 (Weeks:1-5,7-10)",infs1603,Dr VY Pang
+17,4,Laboratory,T3,4894,W11A,Full,25/25,"Wed 11:00 - 13:00 (Weeks:1-5,7-10)",infs1603,Dr VY Pang
+18,5,Laboratory,T3,4897,W18A,Full,28/28,"Wed 18:00 - 20:00 (Weeks:1-5,7-10)",infs1603,Dr VY Pang
+19,6,Lecture,T3,4890,A,Open,79/80*,"Tue 14:00 - 16:00 (Weeks:1-5,7-10)",infs1603,Dr VY Pang
